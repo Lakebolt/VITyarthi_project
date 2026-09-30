@@ -26,7 +26,7 @@ This project is a modular command-line-based Python program executed for the cin
 - **Data Persistence**:          Saves the information in the `theatre_data.json` file. This way, the reservation status will remain saved after each execution of                                  the project.
 ---
 
-3. TECNOLOGIES/ TOOLS USED
+3. TECHNOLOGIES/ TOOLS USED
 
 - **Programming Language Used**:
   - Python version 3.8 or later.
