@@ -1,0 +1,56 @@
+{
+    "movies": {
+        "1": {
+            "title": "MARVEL: IRON MAN",
+            "genre": "Sci-Fi/Action",
+            "duration": "2h 6m",
+            "price": 300.0,
+            "rows": 6,
+            "cols": 7,
+            "booked_seats": [
+                "A1",
+                "A2",
+                "C4"
+            ]
+        },
+        "2": {
+            "title": "FORD V FERRARI",
+            "genre": "Sport/Action",
+            "duration": "2h 32m",
+            "price": 290.0,
+            "rows": 8,
+            "cols": 5,
+            "booked_seats": [
+                "E1",
+                "E2",
+                "E3"
+            ]
+        },
+        "3": {
+            "title": "MISSION IMPOSSIBLE",
+            "genre": "Action/Thriller",
+            "duration": "1h 50m",
+            "price": 250.0,
+            "rows": 4,
+            "cols": 7,
+            "booked_seats": [
+                "C1",
+                "C4",
+                "C7"
+            ]
+        },
+        "4": {
+            "title": "THE PURSUIT OF HAPPYNESS",
+            "genre": "Melodrama/Drama",
+            "duration": "1h 57m",
+            "price": 225.0,
+            "rows": 7,
+            "cols": 6,
+            "booked_seats": [
+                "B3",
+                "D5"
+            ]
+        }
+    },
+    "bookings": {}
+}
