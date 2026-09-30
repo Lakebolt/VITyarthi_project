@@ -49,5 +49,5 @@ This project is a modular command-line-based Python program executed for the cin
 4. Steps to Install & Run the Project
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<lakeolt>/movie-ticket-booking.git
+git clone https://github.com/lakebolt/movie-ticket-booking.git
 cd movie-ticket-booking
